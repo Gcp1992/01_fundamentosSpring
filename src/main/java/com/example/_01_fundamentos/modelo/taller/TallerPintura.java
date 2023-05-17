@@ -1,4 +1,4 @@
-package com.example._01_fundamentos.modelo;
+package com.example._01_fundamentos.modelo.taller;
 
 public class TallerPintura implements ITaller{
     @Override
